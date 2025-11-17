@@ -1,0 +1,15 @@
+venv
+.env
+*.zip
+__pycache__/
+*.pyc
+*.DS_Store
+batch*
+compressed*
+final*
+*_70
+large_image
+small_images
+img_upload
+image*
+*.json
